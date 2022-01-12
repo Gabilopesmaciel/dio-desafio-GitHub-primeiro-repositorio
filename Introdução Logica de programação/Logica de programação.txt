@@ -1,0 +1,48 @@
+Lógica de programação
+1.	O que é lógica?
+“Coerência de raciocínio, de ideias.”
+“Sequencia coerente, regular e necessária de acontecimentos, coisas.” 
+
+2.	Lógica de Programação: significa apenas contextualizar a lógica na programação de computadores, buscando a melhor sequencia de ações para solucionar um problema. 
+
+3.	Metacognição: “Pensar como você pensa.”.
+
+4.	Abstração: “É a habilidade de concentrar nos aspectos essências de um contexto qualquer, ignorando características menos importantes ou acidentais.”.
+
+5.	Algoritmos: “É uma sequencia de passos que resolve um problema.”.
+
+6.	Pseudocódigo: “É uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples.”.
+
+7.	Fluxograma: “É uma ferramenta utilizada para representar graficamente o algoritmo, isto é, sequencia lógica e coerente do fluxo de dados.”
+ 
+8.	Variáveis: “Na programação, uma variável é um objeto (uma posição frequentemente localizada na memória) capaz de reter e representar um valor ou uma expressão.”.
+“É um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo.”
+•	Numéricas                                 
+•	Caracteres
+•	Alfanuméricas
+•	Lógicas
+
+9.	Constantes: “São valores imutáveis e não são alterados durante a vida útil do programa.”.
+
+10.	Expressões aritméticas: “São expressões que utilizam operadores aritméticos e funções aritméticas envolvendo constantes e variáveis.”.
+
+11.	Operadores aritméticos: 
+•	+ SOMA
+•	- SUBTRAÇÃO
+•	* MULTIPLICAÇÃO
+•	/ DIVISÃO
+•	% PORCENTAGEM
+•	^ POTENCIAÇÃO
+
+12.	Expressões literais: “São expressões com constantes e/ou variáveis que tem como resultado valores literais. Utilizamos expressões literais na atribuição de valor para uma variável ou constante.”.
+Nome= “Jose da Silva”
+Nome <- Jose da Silva
+Media= (nota+nota2+nota3+nota4)/4
+
+13.	Operadores relacionais: “São expressões compostas por outras expressões ou variáveis numéricas com operadores relacionais”. As expressões relacionais retornam valores lógicos. (Verdadeiro/Falso)
+ 
+
+14.	Tomadas de decisão: “Quando escrevemos programas, geralmente ocorre a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução”.
+
+15.	Concatenação: “É um termo usado em computação para designar a operação de unir o conteúdo de dois strings”.
+ “Agrupamento de duas ou mais células que, incluindo fórmulas, textos ou outras informações contida no seu interior, dá origem a um único resultado”.
